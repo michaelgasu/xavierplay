@@ -3,7 +3,7 @@ backend:
   repo: michaelgasu/xavierplay # Path to your Github repository
   branch: master # Branch to update
   site_domain: driver-lion-76078.netlify.com # Your Netlify site address if different from host
-  publish_mode: editorial_workflow
+publish_mode: editorial_workflow
   
 media_folder: "img/home" # Media files will be stored in the repo under static/images/uploads
  
